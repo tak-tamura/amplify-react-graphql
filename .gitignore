@@ -8,6 +8,7 @@ amplify/backend/.temp
 build/
 dist/
 node_modules/
+node_modules/.cache
 aws-exports.js
 awsconfiguration.json
 amplifyconfiguration.json
